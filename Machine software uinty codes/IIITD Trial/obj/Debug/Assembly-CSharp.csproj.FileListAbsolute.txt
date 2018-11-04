@@ -1,0 +1,2 @@
+E:\untiy projects\IIITD Trial\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\untiy projects\IIITD Trial\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

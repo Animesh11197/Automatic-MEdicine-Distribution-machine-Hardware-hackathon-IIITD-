@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="framee_vinay" size="0.269500 0.348765" />
+    <ImageTarget name="framee_2_animesh" size="0.265900 0.344106" />
+    <ImageTarget name="framee_1_Srishtee" size="0.215900 0.279400" />
+    <ImageTarget name="IIITD_Prescription" size="0.215900 0.279400" />
+  </Tracking>
+</QCARConfig>
